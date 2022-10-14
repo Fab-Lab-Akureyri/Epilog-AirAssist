@@ -43,6 +43,8 @@ Carefully remove the outlet bolt and transfer the rubber gasket to your new bolt
 
 I did not have imperial bolts available, so I [3D printed one](/files/10-36.stl). They hold but I would recommend you get the correct fitting bolt if you can. 
 
+Or you can just fill the silencer bolt with a sealant, such as a hot glue gun. 
+
 ### Compressor
 
 I bought a small, relatively quiet compressor: [Stanley Fatmax Silent Air Compressor](https://www.bigdug.co.uk/workshop-flooring-c348/workshop-c11614/air-compressors-c48481/direct-drive-compressors-c82087/stanley-fatmax-silent-air-compressor-dst101-8-6-6l-8-bar-105l-min-p20637). It's a hobby compressor but seems to be able to satisfy two lasercutters at a time. For a larger setup, you might need a more powerful system. 
