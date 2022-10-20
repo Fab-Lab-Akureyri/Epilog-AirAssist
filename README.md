@@ -37,7 +37,7 @@ This means the pump is constantly running, consuming electricity and generating 
 
 ### Air valve
 
-To block the outlet, use a 0.19 inch bolt with 10-36 thread. 
+I blocked the outlet, use a 0.19 inch bolt with 10-36 thread. 
 
 Carefully remove the outlet bolt and transfer the rubber gasket to your new bolt. Re-insert the bolt. 
 
